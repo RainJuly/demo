@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 int main() {
-    printf("Congratulasions! It works!\n");
+    printf("这是一个测试程序!\n");
     system("pause");
     return 0;
 }

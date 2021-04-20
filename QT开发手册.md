@@ -1,0 +1,1 @@
+QT编译指令：windeployqt 可执行文件名
